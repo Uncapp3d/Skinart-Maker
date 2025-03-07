@@ -1,0 +1,2 @@
+name the skin png files as the number
+exp:Skin-1.png, Skin-2.png
