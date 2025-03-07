@@ -9,3 +9,4 @@
 2) Run `start.bat`
 3) Insert you Minecraft Bearer token (https://kqzz.github.io/mc-bearer-token/)
 4) Pick between slim and classic
+5) Wait a bit
